@@ -1,0 +1,4 @@
+main: com.penguinchao.configtest.ConfigTest
+version: 1.0
+name: ConfigTest
+author: Penguinchao
